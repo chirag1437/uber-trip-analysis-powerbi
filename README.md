@@ -1,59 +1,105 @@
 # uber-trip-analysis-powerbi
-Interactive Power BI dashboard analyzing Uber trip bookings, revenue, trip trends, vehicle performance, location insights, and time-based booking patterns using DAX and Power Query.
-🚖 Uber Trip Analysis Dashboard (Power BI)
-📌 Project Overview
+🚖 Uber Trip Analysis Dashboard | Power BI
+📌 Project Description
 
-This Power BI project analyzes Uber trip booking data to uncover booking trends, customer behavior, vehicle performance, and time-based patterns. The dashboard provides interactive visualizations that help understand booking distribution, trip performance, and operational insights.
+The Uber Trip Analysis Dashboard is an interactive Business Intelligence project developed using Power BI to analyze Uber trip booking data. The dashboard provides valuable insights into booking trends, revenue generation, trip performance, customer preferences, vehicle usage, and location-based demand.
 
-🛠️ Tools Used
-Power BI
-Power Query
-DAX
-Data Modeling
-Interactive Filters & Slicers
-📊 Dashboard Features
-1. Overview Analysis
+It enables users to explore booking patterns through interactive filters, KPIs, and visual reports, helping stakeholders make informed business decisions based on historical trip data.
+
+🛠️ Tech Stack
+Technology	Purpose
+Power BI	Dashboard Development & Data Visualization
+Power Query	Data Cleaning & Transformation
+DAX	KPI Calculations and Custom Measures
+Data Modeling	Building Relationships Between Tables
+Microsoft Excel / CSV	Source Dataset
+📂 Data Source
+Source: Kaggle
+Dataset: Uber Trip Booking Dataset
+Type: Public Dataset
+Domain: Transportation & Ride Sharing Analytics
+✨ Features Highlights
+📊 Executive KPI Dashboard
+
+Displays important business metrics including:
+
 Total Bookings
 Total Booking Value
 Average Booking Value
 Average Trip Distance
-Average Trip Time
-Total Trip Distance
-Payment Method Analysis
-Day vs Night Trip Analysis
-Vehicle Type Performance
-Pickup & Drop-off Location Analysis
-Daily Booking Trend
-2. Time Analysis
-Booking Trends by Pickup Time
-Hourly & Weekly Booking Heatmap
-Bookings by Day of Week
-Interactive Date and City Filters
-📈 Key Insights
-Booking Performance
-Total Bookings reached 103.7K.
-Overall Booking Value exceeded $1.6M.
-Average Booking Value remained around $15 per trip.
-Trip Statistics
-Average Trip Distance is approximately 3 miles.
-Average Trip Duration is 16 minutes.
-Total Distance Covered exceeds 349K miles.
-Payment Analysis
-Uber Pay is the most preferred payment method.
-Cash is the second most commonly used payment option.
-Amazon Pay and Google Pay contribute a smaller share of bookings.
-Trip Distribution
-Day trips account for nearly two-thirds of total bookings.
-Night trips contribute around one-third of overall rides.
-Vehicle Analysis
-UberX generated the highest booking value.
-UberX completed the largest number of trips.
-Uber Black recorded the highest average booking value among premium categories.
-Time Analysis
-Booking demand increases steadily during the morning.
-Peak ride activity occurs during afternoon and evening hours.
-Weekends show higher booking volumes compared to weekdays.
-Location Analysis
-Penn Station/Madison Square is the most frequent pickup location.
-Upper East Side North is the most common drop-off location.
-Certain city zones consistently generate the highest booking volumes.
+Average Trip Duration
+Total Distance Travelled
+🚗 Booking Analysis
+Overall booking trends
+Daily booking distribution
+Day vs Night trip comparison
+Booking performance over time
+💳 Payment Analysis
+
+Analyze customer payment preferences including:
+
+Uber Pay
+Cash
+Amazon Pay
+Google Pay
+🚘 Vehicle Performance
+
+Compare different vehicle categories based on:
+
+Total Bookings
+Booking Revenue
+Average Booking Value
+Total Distance Covered
+📍 Location Insights
+Most Frequent Pickup Location
+Most Frequent Drop-off Location
+Highest Booking Zones
+Longest Trip Route
+⏰ Time Analysis
+
+Identify demand across different time periods:
+
+Peak Booking Hours
+Hourly Booking Heatmap
+Weekly Booking Trend
+Booking Distribution by Day
+🎛️ Interactive Dashboard
+
+Users can interact with the dashboard using:
+
+Date Filters
+City Filters
+Dynamic KPIs
+Interactive Charts
+📈 Key Business Insights
+📌 Booking Performance
+More than 103K bookings were completed during the analysis period.
+Total booking revenue exceeded $1.6 Million.
+Average booking value remained consistent at approximately $15 per trip.
+📌 Customer Behaviour
+Most customers preferred Uber Pay as their payment method.
+Day trips accounted for a significantly higher share of bookings than night trips.
+Weekend booking demand was generally higher than weekdays.
+📌 Vehicle Insights
+UberX generated the highest booking volume and revenue.
+Premium vehicle categories contributed higher average booking values.
+Vehicle demand varied depending on trip locations and travel time.
+📌 Time-Based Insights
+Booking activity gradually increased during the morning.
+Peak demand occurred during afternoon and evening hours.
+Heatmap analysis highlighted the busiest hours throughout the week.
+📌 Location Insights
+Penn Station/Madison Square emerged as the most frequent pickup location.
+Upper East Side North was the most common drop-off destination.
+A few high-demand zones accounted for a large portion of total bookings.
+🎯 Skills Demonstrated
+Data Cleaning
+Data Transformation
+Data Modeling
+DAX Measures
+KPI Design
+Dashboard Design
+Business Intelligence
+Data Visualization
+Business Insight Generation
+Interactive Reporting
