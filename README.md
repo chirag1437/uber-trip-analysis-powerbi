@@ -1,4 +1,4 @@
-# uber-trip-analysis-powerbi
+# Uber-trip-analysis-powerbi
 # 🚖 Uber Trip Analysis Dashboard | Power BI
 
 #📌 Project Description
