@@ -148,7 +148,7 @@ Users can interact with the dashboard using:
 
 ### Overview Dashboard
 
-> *(Add your first dashboard screenshot here.)*
+>(https://github.com/chirag1437/uber-trip-analysis-powerbi/blob/main/Screenshot%202026-07-22%20155923.png)
 
 ### Time Analysis Dashboard
 
